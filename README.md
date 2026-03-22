@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjit Gupta</h1>
-<h3 align="center">💻 Python Developer | Data Science Learner | Web Developer</h3>
+<h3 align="center">💻 Python Developer | 📊 Data Science Learner | 🤖 Machine Learning Enthusiast</h3>
 
 ---
 
