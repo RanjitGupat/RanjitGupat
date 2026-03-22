@@ -12,7 +12,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RanjitGupat&theme=github_dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=RanjitGupat&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=RanjitGupat&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
