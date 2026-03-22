@@ -1,6 +1,14 @@
+<h1 align="center">Hi 👋, I'm Ranjit Gupta</h1>
+<h3 align="center">💻 Python Developer | Data Science Learner | Web Developer</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranjitguptamr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ranjit-gupta-0a97b524a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjitrkg6@gmail.com) 
+---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranjitguptamr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit-gupta-0a97b524a)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjitrkg6@gmail.com)
+
+---
 
 # 💻 Tech Stack
 
@@ -38,15 +46,32 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RanjitGupat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RanjitGupat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitGupat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=RanjitGupat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=RanjitGupat&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitGupat&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=RanjitGupat&theme=github-dark)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RanjitGupat&theme=darkhub&no-frame=true&row=1&column=6)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RanjitGupat&theme=github_dark)
 
+---
+
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=RanjitGupat&style=for-the-badge)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
