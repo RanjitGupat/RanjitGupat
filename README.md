@@ -119,7 +119,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif]([https://github.com/RanjitGupat/RanjitGupat/blob/output/github-contribution-grid-snake.svghttps://github.com/RanjitGupat/RanjitGupat/blob/main/.github/workflows/snake.yml](https://github.com/RanjitGupat/RanjitGupat/blob/main/workflows/snake.yml))
+![snake gif]([(https://github.com/RanjitGupat/RanjitGupat/blob/main/workflows/snake.yml)])
 
 ---
 
