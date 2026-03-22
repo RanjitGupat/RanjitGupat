@@ -119,7 +119,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
 ![snake gif](https://github.com/RanjitGupat/RanjitGupat/blob/output/github-contribution-grid-snake.svg)
 
 ---
